@@ -78,6 +78,7 @@
       "newrelic_app_enabled": true,
       "blackfire_enabled": true,
       "ssl_enabled": true,
+      "composer_enabled": true,
       "deploy":{
         "enabled": true
       },
