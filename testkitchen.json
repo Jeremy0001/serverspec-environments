@@ -104,8 +104,7 @@
       "server": {
         "key_buffer": "512M",
         "query_cache_size": "256M",
-        "innodb_buffer_pool_size": "512M",
-        "bind_address": "0.0.0.0"
+        "innodb_buffer_pool_size": "512M"
       },
       "skip_passwords": false
     },
